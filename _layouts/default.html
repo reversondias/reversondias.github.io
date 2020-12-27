@@ -15,12 +15,20 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          {# {% if site.github.is_project_page %} #}
+          {% if site.github.is_project_page %}
             <!-- <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a> -->
-          {# {% endif %} #}
+          {% endif %}
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          
+          <a href="https://www.linkedin.com/in/reverson-dias-17b0a279/" target="_blank">
+            <img border="0" alt="linkedin" src="imgs/linkedin.png" width="30" height="30"> My LinkedIn
+          </a>
+          <a href="https://twitter.com/reverson_dias" target="_blank">
+            <img border="0" alt="twitter" src="imgs/twitter.png" width="30" height="30">Follow Me
+          </a>
+          <a href="mailto:reverino@gmail.com">reverino@gmail.com</a>
 
           {% if site.show_downloads %}
             <section id="downloads">
