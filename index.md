@@ -6,9 +6,7 @@ Currently I'm working at ThoughtWorks as Sr. Infrastructure Consultant, where I 
 
 ### A Professional Shot 
 
-```
 I working for more than 5 years with a cloud computing environment and ever I involved with new challenges about new methodologies and tools. I'm passionate to process automation and design solutions. I've been focused on implementing DevOps culture through the companies where I worked.
-```
 
 ### The Last Project I Worked
 
@@ -43,6 +41,6 @@ I working for more than 5 years with a cloud computing environment and ever I in
 
 ![CKA](imgs/cka.png)
 
-![LPI-2](imgs/lpi2.png)
+![LPI-2](imgs/lpic2.png)
 
-![LPI-1](imgs/lpi1.png)
+![LPI-1](imgs/lpic1.png)
