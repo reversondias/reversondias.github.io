@@ -1,37 +1,48 @@
-## Welcome!
+## Welcome it's me!
 
 My name is Reverson Claudio Dias, I was born in Brazil.  
-I left my hometown when I was 18 years old to start my college, I'm bachelor in Computation Science I ends my college in 2011 at Universidade São Francisco. I lived in Itaiba until finished my college after that I moved to Campinas where I lived for 4 year. And I moved to São Paulo where I currently lived, I'm here for 5 years and here I started my DevOps journey. =)
+I left my hometown when I was 18 years old to start my college, I'm bachelor in Computation Science I ends my college in 2011 at Universidade São Francisco. I lived in Itaiba until finished my college after that I moved to Campinas where I lived for 4 year. And I moved to São Paulo where I currently lived, I'm here for 5 years and here I started my DevOps journey. =)  
 Currently I'm working at ThoughtWorks as Sr. Infrastructure Consultant, where I performing a role to implement the best practcies from DevOps culture, showing to the customers what they can use to get the best performance and results about their services or producties or help them to improve their current environment.
 
-### Markdown
+### A Professional Shot 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+I working for more than 5 years with a cloud computing environment and ever I involved with new challenges about new methodologies and tools. I'm passionate to process automation and design solutions. I've been focused on implementing DevOps culture through the companies where I worked.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### The Last Project I Worked
 
-### Jekyll Themes
+- I write terraform modules to delevery AWS infrastructure as a code. That codes are using in a CI/CD pipeline to delivery the infrastructure on-demand for the developers.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reversondias/reversondias.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- I deployed a project based on infrastructure as a code.Through the a continuous delivery tool and integrated with a github repository I deployed a influxDB and influxDB relay on AWS platform. For delivered it I used tools like Terrafor, Ansible and Shell Scripts. And Every modification that must be necessary it had to be through by the github repository.
 
-### Support or Contact
+- I refurbished the metrics platform with Prometheus and Thanos. I made a cross integrate two AWS regions, in the other words, there are two metrics environments on two AWS regions, but they can access each other. That metrics platform are integrated with AWS and Kubernetes cluster, each one on your region.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- I helped QA team to create an automation to help them with some tests. Based on manually tests I used the AWS platform with some resources like Event Bridge, Lambda Functions end EC2 to create a flow 100% automatized with feedback through a message channel. Every thing that we did following the infrastructure as a code conceptions.
+
+
+### Some Tools I Have Been Already Worked
+
+```
+- AWS (Route53, EC2, S3, VPC, Lambda, Elastic Cache, RDS, ASG, etc)
+- Terraform
+- Kubernentes
+- Prometheus+Thanos
+- CircleCi
+- Ansible
+- Hashicorp Packer
+- Scripts: Shell and Python
+- Hashicorp Vault and Consul
+- Github
+- Docker
+- Ansible
+- Hashicorp Packer
+```
+
+### My Certificates
+
+![CKA](imgs/cka.png)
+
+![LPI-2](imgs/lpi2.png)
+
+![LPI-1](imgs/lpi1.png)
