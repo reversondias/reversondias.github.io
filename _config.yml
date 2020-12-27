@@ -1,9 +1,16 @@
 theme: jekyll-theme-slate
 title: "< About me! >"
 description: It's a short description of my professional and technical profile.
-email: reverino@gmail.com
-twitter: reverson_dias
-github: reversondias
+
+owner:
+  # name: Ted Laderas
+  # avatar: bio-photo.jpg
+  # bio: "This is a sample Jekyll academic website."
+  email: reverino@gmail.com
+  # Do not include the @ symbol in your Twitter username
+  twitter: reverson_dias
+  linkedin: #reverson-dias-17b0a279/
+  github: reversondias
 
 # --- List of links in the navigation bar --- #
 #navbar-links:
