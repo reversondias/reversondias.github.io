@@ -1,3 +1,10 @@
 theme: jekyll-theme-slate
 title: "< About me! >"
 description: It's a short description of my professional and technical profile.
+
+# --- List of links in the navigation bar --- #
+navbar-links:
+  About Me: "Where you can found more..."
+  Author's home: "https://reversondias.com"
+  LinkedIn: "https://www.linkedin.com/in/reverson-dias-17b0a279/"
+  Twitter: "https://twitter.com/reverson_dias"
