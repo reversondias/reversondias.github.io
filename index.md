@@ -39,8 +39,8 @@ I working for more than 5 years with a cloud computing environment and ever I in
 
 ### My Certificates
 
-![CKA](imgs/cka.png =250x)
+![CKA](imgs/cka.png | width=250)
 
-![LPI-2](imgs/lpic2.png =250x)
+![LPI-2](imgs/lpic2.png){:height="700px" width="400px"}
 
-![LPI-1](imgs/lpic1.png =250x)
+![LPI-1](imgs/lpic1.png =250x250)
