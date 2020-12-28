@@ -1,0 +1,45 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#email_custom:visited, #email_custom:link, #email_custom:hover, #email_custom:active {
+    text-decoration: none;
+    color: LightGray;
+    font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-style: italic;
+}
+
+a.social_custom:visited, a.social_custom:link, a.social_custom:hover, a.social_custom:active {
+    text-decoration: none;
+}
+
+img.social_custom {
+    border-style: none;
+    box-shadow: none;
+    padding: 0px;
+    margin: 3px;
+}
+
+div.person_info_custom {
+    text-align: right;
+    height: 20%;
+    float: left;
+}
+
+div.email_custom {
+    margin-top: 8px;
+    margin-left: 330px;
+    margin-right: 10px;
+    float: left;
+}
+
+div.outer {
+    padding-bottom: 15px;
+}
+
+#project_tagline {
+    margin-bottom: 0px;
+}

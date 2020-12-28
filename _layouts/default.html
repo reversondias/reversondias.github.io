@@ -22,13 +22,23 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           
-          <a href="https://www.linkedin.com/in/reverson-dias-17b0a279/" target="_blank">
-            <img border="0" alt="linkedin" src="imgs/linkedin.png" width="30" height="30"> My LinkedIn
-          </a>
-          <a href="https://twitter.com/reverson_dias" target="_blank">
-            <img border="0" alt="twitter" src="imgs/twitter.png" width="30" height="30">Follow Me
-          </a>
-          <a href="mailto:reverino@gmail.com">reverino@gmail.com</a>
+          <div class="person_info_custom">
+              <a class="social_custom" href="https://www.linkedin.com/in/reverson-dias-17b0a279/" target="_blank">
+                <img class="social_custom" alt="linkedin" src="imgs/linkedin.png" width="30" height="30">
+              </a>
+              <a class="social_custom" href="https://twitter.com/reverson_dias" target="_blank">
+                <img class="social_custom" alt="twitter" src="imgs/twitter.png" width="30" height="30">
+              </a>
+              <a class="social_custom" href="https://github.com/reversondias/" target="_blank">
+                <img class="social_custom" alt="twitter" src="imgs/github.png" width="30" height="30">
+              </a>
+              <div class="email_custom">
+                  <a id="email_custom" href="#">
+                    reverino@gmail.com
+                  </a>
+            </div>
+        </div>
+          
 
           {% if site.show_downloads %}
             <section id="downloads">

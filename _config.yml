@@ -1,20 +1,3 @@
 theme: jekyll-theme-slate
 title: "< About me! >"
 description: It's a short description of my professional and technical profile.
-
-author:
-  name: Reverson Claudio Dias
-  # avatar: bio-photo.jpg
-  bio: "It's a short description of my professional and technical profile."
-  email: reverino@gmail.com
-  # Do not include the @ symbol in your Twitter username
-  twitter: reverson_dias
-  linkedin: #reverson-dias-17b0a279/
-  github: reversondias
-
-# --- List of links in the navigation bar --- #
-#navbar-links:
-#  About Me: "Where you can found more..."
-#  Author's home: "https://reversondias.com"
-#  LinkedIn: "https://www.linkedin.com/in/reverson-dias-17b0a279/"
-#  Twitter: "https://twitter.com/reverson_dias"
