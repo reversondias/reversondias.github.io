@@ -19,28 +19,27 @@ a.social_custom:visited, a.social_custom:link, a.social_custom:hover, a.social_c
 img.social_custom {
     border-style: none;
     box-shadow: none;
-    padding: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     margin: 3px;
+    margin-bottom: 0px;
 }
+
 
 div.person_info_custom {
     text-align: right;
-    // float: left;
-}
+    margin-right: 20px;
 
-div.email_custom {
-    margin-top: 8px;
-    // margin-bottom: 8px;
-    // margin-left: 330px;
-    margin-left: 52%;
-    // margin-right: 10px;
-    float: left;
+
+div.social_custom {
+    margin-top: 3px;
+    margin-right: 15px;
 }
 
 div.outer {
     padding-bottom: 0px;
 }
 
-// #project_tagline {
-//     margin-bottom: 0px;
-// }
+#project_tagline {
+    margin-bottom: 0px;
+}
