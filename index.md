@@ -15,7 +15,7 @@ And I love making automation like improve CI/CD pipelines and some kind of integ
 
 - I deployed a project based on infrastructure as a code.Through the a continuous delivery tool and integrated with a github repository I deployed a influxDB and influxDB relay on AWS platform. For delivered it I used tools like Terrafor, Ansible and Shell Scripts. And Every modification that must be necessary it had to be through by the github repository.
 
-- I refurbished the metrics platform with Prometheus and Thanos. I made a cross integrate two AWS regions, in the other words, there are two metrics environments on two AWS regions, but they can access each other. That metrics platform are integrated with AWS and Kubernetes cluster, each one on your region.
+- I rebuilt the metrics platform with Prometheus and Thanos. I made a cross integrate two AWS regions, in the other words, there are two metrics environments on two AWS regions, but they can access each other. That metrics platform are integrated with AWS and Kubernetes cluster, each one on your region.
 
 - I helped QA team to create an automation to help them with some tests. Based on manually tests I used the AWS platform with some resources like Event Bridge, Lambda Functions end EC2 to create a flow 100% automatized with feedback through a message channel. Every thing that we did following the infrastructure as a code conceptions.
 
