@@ -2,11 +2,11 @@
 
 My name is Reverson Claudio Dias, I was born in Brazil in 1989.  
 I left my hometown when I was 18 years old to start college, I'm a bachelor in Computation Science I ends my college in 2011 at Universidade São Francisco. I lived in Itatiba until I finished college after that I moved to Campinas where I lived for 4 years. And I moved to São Paulo where I currently lived, I'm here for 5 years and here I started my DevOps journey. =)  
-Currently, I'm working at ThoughtWorks as Sr. Infrastructure Consultant, where I performing a role to implement the best practices from DevOps culture, showing to the customers what they can use to get the best performance and results about their services or products or help them to improve their current environment.  
+Currently, I'm working at [ThoughtWorks](https://www.thoughtworks.com/) as Sr. Infrastructure Consultant, where I performing a role to implement the best practices from DevOps culture, showing to the customers what they can use to get the best performance and results about their services or products or help them to improve their current environment.  
 
 ### A Professional Shot 
 
-I working for more than 5 years in a cloud computing environment and ever involved with new challenges about new methodologies and tools. I've been focused on implementing DevOps culture through the companies where I worked. I'm passionate about Linux (Open Source projects), Kubernetes, and Cloud Computing!  
+I work for more than 5 years in a cloud computing environment and ever involved with new challenges about new methodologies and tools. I've been focused on implementing DevOps culture through the companies where I worked. I'm passionate about Linux (Open Source projects), Kubernetes, and Cloud Computing!  
 And I love making automation like improve CI/CD pipelines and some kind of integrations.  
 
 ### The Last Project I Worked
