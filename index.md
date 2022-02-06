@@ -19,7 +19,6 @@ And I love making automation like improve CI/CD pipelines and some kind of integ
 
 - I helped a QA team to create an automation to help them with some tests. Based on manual tests I have used the AWS platform with some resources like Event Bridge, Lambda Functions end EC2 to create a flow 100% automatized with feedback through a message channel(slack). 
 
-- I helped the QA team to create automation to help them with some tests. Based on manual tests I used the AWS platform with some resources like Event Bridge, Lambda Functions end EC2 to create a flow 100% automatized with feedback through a message channel. Everything that we did following the infrastructure as a code conception.  
 
 ### Some Tools I Have Been Already Worked
 
