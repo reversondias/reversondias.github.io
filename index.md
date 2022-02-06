@@ -2,7 +2,7 @@
 
 My name is Reverson Claudio Dias, I was born in Brazil in 1989.  
 I have left my hometown when I was 18 years old to start college, I'm bachelor's in Computation Science, and I finished college in 2011 at Universidade São Francisco. I have lived in the countryside until to finish college and to get more professional experience. Then I moved to São Paulo, the biggest city in Brazil, where I started my DevOps journey =) there I had lived for 6 years.  
-Currently, I'm living in Porto - Portugal, and I work at Farfetch as Sr. Infrastructure Eng. Here I'm performing a role to implement the best practices to use Kubernetes using the GitOps as a model to deliver the applications and the resources to support it.
+Currently, I'm living in Porto - Portugal, and I work at [Farfetch](https://www.farfetch.com/) as Sr. Infrastructure Eng. Here I'm performing a role to implement the best practices to use Kubernetes using the GitOps as a model to deliver the applications and the resources to support it.
 
 ### A Professional Shot 
 
