@@ -19,6 +19,8 @@ And I love to make automation to improve CI/CD pipelines and integrations betwee
 
 - I have helped a QA team to create an automation to help them with some tests. Based on manual tests I have used the AWS platform with some resources like Event Bridge, Lambda Functions end EC2 to create a flow 100% automatized with feedback through a message channel(Slack).
 
+- I have migrate an environment from EC2 deployed and configured by Ansible to Kubernetes using FluxCD to deploy the services and application in the Kubernetes cluster. The process has covered to create the Helm charts, installation of Ingress controllers, external secrets integration and all Kubernetes cluster configuration are stored in a Github repository and used as a monorepo.
+
 ### Some Tools I Have Been Already Worked
 
 ```
