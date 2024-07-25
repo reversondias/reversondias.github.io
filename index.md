@@ -9,7 +9,7 @@ Currently, I have been living in Portugal. I'm working at [Bosh - Ovar](https://
 I have worked for more than 5 years with cloud computing (on premises and as a service) and I ever have been involved with new challenges about new methodologies and tools. I I have been focused in to implement DevOps culture through the companies where I have worked. I'm passionate for Linux (Open Source projects), Kubernetes and Cloud Computing!  
 And I love to make automation to improve CI/CD pipelines and integrations between the services.
 
-### The Last Project I Worked
+### Projects I Have Worked
 
 - I have wrote terraform modules to deliver AWS infrastructure as a code. Those codes were used in a CI/CD (Jenkins) pipeline to deliver the infrastructure on-demand for the developers.
 
