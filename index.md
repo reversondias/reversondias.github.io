@@ -49,9 +49,7 @@ And I love to make automation to improve CI/CD pipelines and integrations betwee
 ### My Certificates
 
 ![CKAD](imgs/ckad.png){:height="200px" width="200px"}
-
 ![CKA](imgs/cka.png){:height="200px" width="200px"}
 
 ![LPI-2](imgs/lpic2.png){:height="200px" width="200px"}
-
 ![LPI-1](imgs/lpic1.png){:height="200px" width="200px"}
